@@ -1,10 +1,9 @@
 # Simple Todo Page
+We now have all the basic tools of the front end at our disposal. Let's put them to work by creating a To-Do List application.
 
-We now have all the basic tools of the front end at our disposal. Let's put them to work. It's quite common to build a To Do List application when you're starting out, so let's do that, too. 
-
-## Requirements:
-
-* One page site with our list on it. We will be using [Bootstrap](https://getbootstrap.com/) tomorrow so you can jump ahead if you'd like but other than that, I would just style it using basic CSS
-* A user can create an item on their list using a prompt or something else of your choosing. The items are saved in [Local Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
-* A user can mark an item done and the text has a ~~strikethrough~~ on it
-* A user can delete an item.
+## Steps:
+* Create your HTML/CSS/JS files
+* Display a list of items that you need to do. Use local storage to get/remove/add these items.
+* Create a form at the bottom of the list to add more things to your todo list
+* Create the ability to check off things from your todo list. When you check things off, make sure that has a ~~strikethrough~~ so that you know what you've already done. This will probably alter the data structure you have in local storage.
+* Style it! We will be learning [Bootstrap](https://getbootstrap.com/) tomorrow so you can jump ahead if you'd like but other than that, you can use basic CSS
