@@ -1,5 +1,7 @@
 console.log("HELLO OSCAR PLATOON!")
-
+const addTask = () => {
+  document.getElementById('myTasks').innerHTML = 'CLICKED!'
+}
 
 
 
